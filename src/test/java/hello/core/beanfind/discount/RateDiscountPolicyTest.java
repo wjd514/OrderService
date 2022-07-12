@@ -1,5 +1,6 @@
-package hello.core.discount;
+package hello.core.beanfind.discount;
 
+import hello.core.discount.RateDiscountPolicy;
 import hello.core.member.Grade;
 import hello.core.member.Member;
 import org.junit.jupiter.api.DisplayName;
