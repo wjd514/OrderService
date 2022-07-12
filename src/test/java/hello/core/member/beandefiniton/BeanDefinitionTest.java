@@ -1,4 +1,4 @@
-package hello.core.beandefiniton;
+package hello.core.member.beandefiniton;
 
 import hello.core.AppConfig;
 import org.junit.jupiter.api.DisplayName;
